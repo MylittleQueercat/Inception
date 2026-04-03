@@ -4,7 +4,7 @@
 ![OS](https://img.shields.io/badge/OS-Debian%20Bookworm-A81D33?style=flat&logo=debian&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
 
-# 🐳 Inception — 42 Project
+# 🐳 Inception
 
 A system administration project using Docker and Docker Compose to set up a multi-container infrastructure inside a Virtual Machine.
 
