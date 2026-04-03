@@ -197,13 +197,8 @@ docker exec -it mariadb mysql -u root           # Must be denied
 Subject requires "penultimate stable version" → Bookworm is the correct choice.
 
 ---
----
 
-# 🇨🇳 中文学习笔记
-
----
-
-# Inception 学习笔记（自用复习）
+# Inception 学习笔记（Mandarin）
 
 ---
 
@@ -539,21 +534,6 @@ startx                           # 启动图形界面（在 VirtualBox 窗口中
 firefox https://hguo.42.fr &     # 打开浏览器
 pkill X                          # 退出图形界面
 ```
-
----
-
-## 答辩流程
-
-1. **Preliminaries** — 评审员运行清理命令 → 你运行 `make`
-2. **Project Overview** — 口头解释 Docker、Compose、vs VM、目录结构
-3. **Simple Setup** — NGINX 只开 443、TLS、WordPress 已安装、HTTP 不通
-4. **Docker Basics** — 每个服务有 Dockerfile、FROM debian:bookworm、镜像名=服务名
-5. **Docker Network** — docker network ls、解释 bridge 网络
-6. **NGINX** — Dockerfile、容器运行、HTTP 不通、TLS 证书
-7. **WordPress** — Dockerfile 无 nginx、volume 路径、添加评论、管理员不含 admin、编辑页面
-8. **MariaDB** — Dockerfile 无 nginx、volume 路径、root 无密码被拒绝、普通用户能登录
-9. **Persistence** — 重启 VM → make → 数据还在
-10. **Bonus** — 逐个验证 Redis/FTP/静态网站/Adminer/Portainer
 
 ---
 
