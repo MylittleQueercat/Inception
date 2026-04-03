@@ -1,9 +1,8 @@
 ![42 Badge](https://img.shields.io/badge/42-Project-000000?style=flat&logo=42&logoColor=white)
-![Score](https://img.shields.io/badge/Score-125%2F100-brightgreen?style=flat)
+![Score](https://img.shields.io/badge/Score-125%2F125-brightgreen?style=flat)
 ![Language](https://img.shields.io/badge/Language-Docker%20%7C%20Shell%20%7C%20YAML-blue?style=flat)
 ![OS](https://img.shields.io/badge/OS-Debian%20Bookworm-A81D33?style=flat&logo=debian&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
-![Bonus](https://img.shields.io/badge/Bonus-5%2F5-blueviolet?style=flat)
 
 # 🐳 Inception — 42 Project
 
